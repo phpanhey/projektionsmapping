@@ -1,0 +1,6 @@
+Raspi confog:
+
+    beamer1: ssh pi@192.168.6.185 
+    beamer2: ssh pi@192.168.6.186 
+
+    30 00 * * * sudo shutdown now
